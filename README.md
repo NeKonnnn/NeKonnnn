@@ -8,11 +8,6 @@
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
     </a>
   </div>
-  <div id="visitor-count">
-    <h1>
-      <img src="https://komarev.com/ghpvc/?username=NeKonnnn&style=plastic&color=brightgreen" alt=""/>
-    </h1>
-  </div>
   <div id="greeting">
     <h1>
       Hello World!
@@ -27,41 +22,47 @@
 <div>
   <h3>🔭 Programming Languages:</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=yellow&color=black" />
+    <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=yellow&color=black" />
+    <img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/C%23-ffffff?style=for-the-badge&logo=c-sharp&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=generic&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=r&logoColor=blue&color=black" />
   </p>
 </div>
 <div>
   <h3>📚 Python Libraries:</h3>
   <p>
-    Pandas, Numpy, Scipy, Matplotlib, Seaborn, Scikit-learn, Pytorch, TensorFlow
-    <!-- You might want to look for appropriate badges for these -->
+    <img src="https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Numpy-ffffff?style=for-the-badge&logo=numpy&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Scipy-ffffff?style=for-the-badge&logo=scipy&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=generic&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Seaborn-ffffff?style=for-the-badge&logo=generic&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Scikit_learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Pytorch-ffffff?style=for-the-badge&logo=pytorch&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/TensorFlow-ffffff?style=for-the-badge&logo=tensorflow&logoColor=blue&color=black" />
   </p>
 </div>
 <div>
   <h3>💻 Technologies & Frameworks:</h3>
   <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Apache_Airflow-ffffff?style=for-the-badge&logo=apache-airflow&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=blue&color=black" />
   </p>
 </div>
 <div>
   <h3>🖥️ Operating Systems:</h3>
   <p>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Windows-ffffff?style=for-the-badge&logo=windows&logoColor=blue&color=black" />
+    <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=blue&color=black" />
   </p>
 </div>
-<div>
-  <details>
-    <summary>
-      <h3>📊 My Stats:</h3>
-    </summary>
+<details>
+  <summary>
+    <h3>📊 My Stats:</h3>
+  </summary>
+  <div align="center">
     <a href="https://github.com/NeKonnnn">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeKonnnn&theme=radical" />
     </a>
@@ -71,5 +72,12 @@
     <a href="https://github.com/NeKonnnn">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeKonnnn&" alt="NeKonnnn" />
     </a>
-  </details>
+    <!-- Contribution Graph (https://github.com/Ayesh/gh-activity) -->
+    <a href="https://github.com/NeKonnnn">
+      <img src="https://activity-graph.herokuapp.com/graph?username=NeKonnnn&bg_color=1A1B27&color=E1E8EB&line=309FF8&point=FFFFFF&hide_border=true" alt="Contribution graph" />
+    </a>
+  </div>
+</details>
+<div id="visitor-count" align="center">
+  <img src="https://komarev.com/ghpvc/?username=NeKonnnn&style=plastic&color=brightgreen" alt=""/>
 </div>
