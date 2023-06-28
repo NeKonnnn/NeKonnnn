@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges">
-  <a href="[t.me/@NeKonnn](https://web.telegram.org/a/)">
+  <a href="https://web.telegram.org/a/">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://vk.com/nekon93">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
