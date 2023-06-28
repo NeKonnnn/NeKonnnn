@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
-  <a href="t.me/@NeKonnn">
+  <a href="[t.me/@NeKonnn](https://web.telegram.org/a/)">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="your-youtube-URL">
