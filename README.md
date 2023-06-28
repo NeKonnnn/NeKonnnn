@@ -64,17 +64,13 @@
   </summary>
   <div align="center">
     <a href="https://github.com/NeKonnnn">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeKonnnn&theme=radical" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=NeKonnnn&show_icons=true&theme=merko" />
     </a>
     <a href="https://github.com/NeKonnnn">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=NeKonnnn&show_icons=true&theme=radical" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeKonnnn&theme=merko" alt="NeKonnnn" />
     </a>
     <a href="https://github.com/NeKonnnn">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeKonnnn&" alt="NeKonnnn" />
-    </a>
-    <!-- Contribution Graph (https://github.com/Ayesh/gh-activity) -->
-    <a href="https://github.com/NeKonnnn">
-      <img src="https://activity-graph.herokuapp.com/graph?username=NeKonnnn&bg_color=1A1B27&color=E1E8EB&line=309FF8&point=FFFFFF&hide_border=true" alt="Contribution graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeKonnnn&theme=merko&layout=donut" alt="Languages" />
     </a>
   </div>
 </details>
